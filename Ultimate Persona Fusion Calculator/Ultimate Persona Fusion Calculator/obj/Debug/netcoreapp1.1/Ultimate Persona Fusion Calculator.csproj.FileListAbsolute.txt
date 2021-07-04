@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Ultimate Persona Fusion Calculator\Ultimate Persona Fusion Calculator\bin\Debug\netcoreapp1.1\Ultimate Persona Fusion Calculator.deps.json
+C:\Users\User\source\repos\Ultimate Persona Fusion Calculator\Ultimate Persona Fusion Calculator\bin\Debug\netcoreapp1.1\Ultimate Persona Fusion Calculator.runtimeconfig.json
+C:\Users\User\source\repos\Ultimate Persona Fusion Calculator\Ultimate Persona Fusion Calculator\bin\Debug\netcoreapp1.1\Ultimate Persona Fusion Calculator.runtimeconfig.dev.json
+C:\Users\User\source\repos\Ultimate Persona Fusion Calculator\Ultimate Persona Fusion Calculator\bin\Debug\netcoreapp1.1\Ultimate Persona Fusion Calculator.dll
+C:\Users\User\source\repos\Ultimate Persona Fusion Calculator\Ultimate Persona Fusion Calculator\bin\Debug\netcoreapp1.1\Ultimate Persona Fusion Calculator.pdb
+C:\Users\User\source\repos\Ultimate Persona Fusion Calculator\Ultimate Persona Fusion Calculator\obj\Debug\netcoreapp1.1\Ultimate Persona Fusion Calculator.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Ultimate Persona Fusion Calculator\Ultimate Persona Fusion Calculator\obj\Debug\netcoreapp1.1\Ultimate Persona Fusion Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ultimate Persona Fusion Calculator\Ultimate Persona Fusion Calculator\obj\Debug\netcoreapp1.1\Ultimate Persona Fusion Calculator.AssemblyInfo.cs
+C:\Users\User\source\repos\Ultimate Persona Fusion Calculator\Ultimate Persona Fusion Calculator\obj\Debug\netcoreapp1.1\Ultimate Persona Fusion Calculator.dll
+C:\Users\User\source\repos\Ultimate Persona Fusion Calculator\Ultimate Persona Fusion Calculator\obj\Debug\netcoreapp1.1\Ultimate Persona Fusion Calculator.pdb
+C:\Users\User\source\repos\Ultimate Persona Fusion Calculator\Ultimate Persona Fusion Calculator\obj\Debug\netcoreapp1.1\Ultimate Persona Fusion Calculator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Ultimate Persona Fusion Calculator\Ultimate Persona Fusion Calculator\obj\Debug\netcoreapp1.1\Ultimate Persona Fusion Calculator.genruntimeconfig.cache

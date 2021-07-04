@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "Ultimate Persona Fusion Calculator/1.0.0": {
+        "runtime": {
+          "Ultimate Persona Fusion Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ultimate Persona Fusion Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
